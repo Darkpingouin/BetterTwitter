@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "BetterTwitter",
+  "description": "This extension replace all hatefull posts by a clafouti reciepe",
+  "version": "1.0",
+
+
+  "content_scripts": [{
+      "js": ["utils.js", "twitter.js"],
+      "matches": ["https://twitter.com/*", "https://twitter.com/*"]
+  }]
+}
