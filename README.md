@@ -1,4 +1,4 @@
-# BetterTwitter
+# Clafoutweets
 
 Simple chrome extension that replaces hatefull tweets by a clafouti reciepe
 
