@@ -1,4 +1,4 @@
-var searchText = ["CONNARD"];
+
 
 var remplace = function()
 {

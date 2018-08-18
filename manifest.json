@@ -5,9 +5,13 @@
   "description": "This extension replace all hatefull posts by a clafouti reciepe",
   "version": "1.0",
 
+  "browser_action":
+    {
+      "default_icon": "clafouti.png"
+    },
 
   "content_scripts": [{
-      "js": ["utils.js", "twitter.js"],
+      "js": ["config.js", "utils.js", "twitter.js"],
       "matches": ["https://twitter.com/*", "https://twitter.com/*"]
   }]
 }
