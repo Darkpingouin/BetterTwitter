@@ -4,7 +4,7 @@ Simple chrome extension that replaces hatefull tweets by a clafouti reciepe
 
 # How to use it
 
-Download this repository as a zip and unzip it. Then go to `chrome://extensions/` on your chrome browser, click on `Load unpacked` and select the `BetterTwitter` folder. That's it 
+Download this repository as a zip and unzip it. Then go to `chrome://extensions/` on your chrome browser, click on `Load unpacked` and select the `Clafoutweets` folder. That's it 
 
 # How to configure it
 
